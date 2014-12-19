@@ -9,7 +9,7 @@ is when the manager wants to upgrade x people to a certain version throughout
 the entire graph.
 
 Two main files:
-
+-------------------
 infections.py
 	- manages the backend in the User class
 
@@ -17,7 +17,7 @@ visualization.py
 	- model-view-controller based tkinter application to visualize graph 
 
 HOWTO:
-
+------------------
 python main.py test
 	- this will run the tests for the graph algorithm
 
